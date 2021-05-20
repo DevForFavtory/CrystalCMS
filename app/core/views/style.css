@@ -1,0 +1,11 @@
+li.success{
+    color:green;
+}
+
+li.warning{
+    color:orange;
+}
+
+li.error{
+    color:red;
+}
